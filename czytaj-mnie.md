@@ -14,6 +14,7 @@ https://ducin.dev/what-is-frontend-architecture
 https://www.jimmybogard.com/vertical-slice-architecture/
 
 Polecane ksiazki
+
 https://helion.pl/ksiazki/podstawy-architektury-oprogramowania-dla-inzynierow-wydanie-ii-mark-richards-neal-ford,poaro2.htm#format/d
 
 https://helion.pl/ksiazki/stworz-wlasne-ai-jak-od-podstaw-zbudowac-duzy-model-jezykowy-sebastian-raschka,stwlai.htm#format/d
